@@ -5,7 +5,7 @@
 ### **<div align="center">👋 Hey! I'm Craith aka. Justin. I'm a aspiring developer from Germany. </div>**  
   
 
-- 🔭 I’m currently working on Darth Jar Jar Discord Bot using NAFF Library  
+- 🔭 I’m currently working on a Dashboard / UCP
   
 
 - 🌱 I’m currently learning React, Typescript and Golang 
