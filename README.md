@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Darth Jar Jar Discord Bot using NAFF Library  
   
 
-- 🌱 I’m currently learning Python and C#(Unity)  
+- 🌱 I’m currently learning React, Typescript and Golang 
   
 
 - ⚡ I'm looking for some help with my Discord Bot 😀  
