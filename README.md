@@ -5,17 +5,6 @@
 ### **<div align="center">👋 Hey! I'm Craith aka. Justin. I'm a aspiring developer from Germany. </div>**  
   
 
-- 🔭 I’m currently working on a Dashboard / UCP
-  
-
-- 🌱 I’m currently learning React, Typescript and Golang 
-  
-
-- ⚡ I'm looking for some help with my Discord Bot 😀  
-  
-
-- 🍔 My favorite food is burger!  
-  
 
 <br/>  
 
