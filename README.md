@@ -19,9 +19,9 @@ I'm an aspiring self-taught developer from Berlin, Germany, passionate about tec
 
 | **Databases** | **ORMs** |
 |--------------|---------|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Prisma](https://img.shields.io/badge/Prisma-333664?style=for-the-badge&logo=prisma&logoColor=white) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Drizzle](https://img.shields.io/badge/Drizzle-01A9DB?style=for-the-badge&logo=drizzle&logoColor=white) |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Kysely](https://img.shields.io/badge/Kysely-000000?style=for-the-badge) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Drizzle](https://img.shields.io/badge/Drizzle-01A9DB?style=for-the-badge&logo=drizzle&logoColor=white) |
+| | ![Kysely](https://img.shields.io/badge/Kysely-000000?style=for-the-badge) |
+
 
 ---
 
